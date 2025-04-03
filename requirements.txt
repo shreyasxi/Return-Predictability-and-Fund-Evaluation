@@ -1,0 +1,10 @@
+IPython
+arch
+matplotlib
+numpy
+pandas
+pandas_datareader
+seaborn
+statsmodels
+tabulate
+warnings
