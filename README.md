@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-**Author**: Shreyas Urgunde, Alex Wilkinson, Reba Ann Paul, and Yuelai Zhou
+**Author**: Shreyas Urgunde, Alex Wilkinson, Reba Ann Paul, and Yuelai Zhou  
 **Date**: April 2025  
 **Institution**: Warwick Business School  
 
