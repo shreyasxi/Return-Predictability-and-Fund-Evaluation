@@ -1,5 +1,13 @@
 # Return Predictability and Fund Evaluation
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+**Author**: Shreyas Urgunde, Alex Wilkinson, Reba Ann Paul, and Yuelai Zhou
+**Date**: April 2025  
+**Institution**: Warwick Business School  
+
+---
+
 This repository contains the full code, data, and report for a group project in the **Empirical Finance (IB9Y60)** module at Warwick Business School. 
 
 ## 📌 Project Overview
